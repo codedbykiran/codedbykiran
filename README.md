@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kiran
+# Hi, I'm Kiran
 
 💻 Frontend Developer  
 🌱 Currently learning React & modern UI design  
@@ -6,7 +6,7 @@
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 ✅ HTML5, CSS3, JavaScript (ES6+)  
 ✅ React.js (in progress)  
@@ -16,7 +16,7 @@
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 🔹 [Expense Tracker](https://github.com/codedbykiran/Expenses-Tracker)  
 🔹 [Quotes Generator](https://github.com/codedbykiran/Quotes-Generator-JS)  
