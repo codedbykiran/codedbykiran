@@ -1,17 +1,14 @@
 # 👋 Hey, I'm Kiran Charhate  
 
-<img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="100" align="left" style="border-radius: 50%; margin-right: 15px;">  
-
 I’m a passionate **Full Stack Developer (in progress)** who loves turning ideas into clean, real-world web experiences.  
 Focused on **JavaScript, React, and Node.js**, I enjoy building projects that are fast, scalable, and user-friendly.  
 
 ---
 
+## 🚀About Me  
 
-## 🚀 About Me  
-
-- 🌱 Currently learning **React.js** (Frontend) and **Node.js + Express** (Backend)  
-- 🧠 Exploring **MongoDB** for databases  
+- Currently learning **React.js** (Frontend) and **Node.js + Express** (Backend)  
+- Exploring **MongoDB** for databases  
 - 💻 Built projects like:  
   - 🔹 [Infinite Wikipedia Search](https://codedbykiran.github.io/Infinite-Wikipedia/)  
   - 🔹 [Step Counter App](https://codedbykiran.github.io/live-Step-Counter/)  
@@ -23,17 +20,17 @@ Focused on **JavaScript, React, and Node.js**, I enjoy building projects that ar
 
 ## 🧰 Tech Stack  
 
-### 🖥️ **Frontend**
-- HTML5, CSS3, JavaScript (ES6+), React.js, Bootstrap  
+### 🖥️ Frontend
+HTML5, CSS3, JavaScript (ES6+), React.js, Bootstrap  
 
-### ⚙️ **Backend**
-- Node.js, Express.js, REST APIs, MongoDB (Basics)
+### ⚙️ Backend
+Node.js, Express.js, REST APIs, MongoDB (Basics)  
 
-### 🛠️ **Tools**
-- Git, GitHub, VS Code, Postman  
+### 🛠️ Tools
+Git, GitHub, VS Code, Postman  
 
-### 🎨 **Design**
-- Figma, Canva  
+### 🎨 Design
+Figma, Canva  
 
 ---
 
@@ -47,7 +44,7 @@ Focused on **JavaScript, React, and Node.js**, I enjoy building projects that ar
 
 ---
 
-## Connect With Me  
+## 📫 Connect With Me  
 
 🌐 [GitHub Profile](https://github.com/codedbykiran)  
 💼 [LinkedIn (Coming Soon)]()  
@@ -60,7 +57,5 @@ Focused on **JavaScript, React, and Node.js**, I enjoy building projects that ar
 > I believe every bug is just a puzzle waiting to be solved 🧩  
 
 ---
-
-### ⭐ Don’t forget to star my repositories if you like them!
 
 ### ⭐ Don’t forget to star my repositories if you like them!
