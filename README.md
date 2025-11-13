@@ -1,38 +1,65 @@
-# Hi, I'm Kiran
+# 👋 Hey, I'm Kiran Charhate  
 
-💻 Frontend Developer  
-🌱 Currently learning React & modern UI design  
-🚀 I enjoy building clean, responsive, and user-focused web applications
+<img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="100" align="left" style="border-radius: 50%; margin-right: 15px;">  
 
----
-
-## Tech Stack
-
-✅ HTML5, CSS3, JavaScript (ES6+)  
-✅ React.js (in progress)  
-✅ Git & GitHub  
-✅ LocalStorage, API Integration  
-✅ VS Code, Chrome DevTools  
+I’m a passionate **Full Stack Developer (in progress)** who loves turning ideas into clean, real-world web experiences.  
+Focused on **JavaScript, React, and Node.js**, I enjoy building projects that are fast, scalable, and user-friendly.  
 
 ---
 
-## Featured Projects
+## 🚀 About Me  
 
-🔹 [Expense Tracker](https://github.com/codedbykiran/Expenses-Tracker)  
-🔹 [Quotes Generator](https://github.com/codedbykiran/Quotes-Generator-JS)  
-🔹 [Theme Toggle Button](https://github.com/codedbykiran/Toggle-Button)  
-
-*(More projects coming soon…)*
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codedbykiran&show_icons=true&theme=default)
+- 🌱 Currently learning **React.js** (Frontend) and **Node.js + Express** (Backend)  
+- 🧠 Exploring **MongoDB** for databases  
+- 💻 Built projects like:  
+  - 🔹 [Infinite Wikipedia Search](https://codedbykiran.github.io/Infinite-Wikipedia/)  
+  - 🔹 [Step Counter App](https://codedbykiran.github.io/live-Step-Counter/)  
+  - 🔹 [Loader Countdown](https://github.com/codedbykiran/Loader-Countdown)  
+- 💬 Ask me about **Frontend Development, APIs, or Node.js Backend**  
+- 🎯 Goal: To become a **Full Stack Developer** and land a strong role in web development  
 
 ---
 
-## 📫 Contact
+## 🧰 Tech Stack  
 
-📩 Email: **kirancharhate781@gmail.com**  
-🔗 GitHub: **github.com/codedbykiran**
+### 🖥️ **Frontend**
+- HTML5, CSS3, JavaScript (ES6+), React.js, Bootstrap  
+
+### ⚙️ **Backend**
+- Node.js, Express.js, REST APIs, MongoDB (Basics)
+
+### 🛠️ **Tools**
+- Git, GitHub, VS Code, Postman  
+
+### 🎨 **Design**
+- Figma, Canva  
+
+---
+
+## 📂 Featured Projects  
+
+| Project | Description | Live Demo |
+|----------|--------------|-----------|
+| 🧠 Infinite Wikipedia Search | Search Wikipedia articles instantly | [View Live](https://codedbykiran.github.io/Infinite-Wikipedia/) |
+| 👣 Step Counter App | Count your daily steps with smooth UI | [View Live](https://codedbykiran.github.io/live-Step-Counter/) |
+| ⏳ Loader Countdown | Minimal CSS loader project | [View Code](https://github.com/codedbykiran/Loader-Countdown) |
+
+---
+
+## Connect With Me  
+
+🌐 [GitHub Profile](https://github.com/codedbykiran)  
+💼 [LinkedIn (Coming Soon)]()  
+📧 **codedbykiran@example.com**
+
+---
+
+## ⚡ Fun Fact  
+
+> I believe every bug is just a puzzle waiting to be solved 🧩  
+
+---
+
+### ⭐ Don’t forget to star my repositories if you like them!
+
+### ⭐ Don’t forget to star my repositories if you like them!
