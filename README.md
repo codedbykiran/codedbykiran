@@ -13,8 +13,9 @@ Focused on **JavaScript, React, and Node.js**, I enjoy building projects that ar
   - 🔹 [Infinite Wikipedia Search](https://codedbykiran.github.io/Infinite-Wikipedia/)  
   - 🔹 [Step Counter App](https://codedbykiran.github.io/live-Step-Counter/)  
   - 🔹 [Loader Countdown](https://github.com/codedbykiran/Loader-Countdown)  
-- 💬 Ask me about **Frontend Development, APIs, or Node.js Backend**  
-- 🎯 Goal: To become a **Full Stack Developer** and land a strong role in web development  
+- 💬 Ask me about **Frontend Development, APIs, or Node.js Backend**
+  
+- Goal: To become a **Full Stack Developer** and land a strong role in web development  
 
 ---
  
@@ -23,10 +24,10 @@ Focused on **JavaScript, React, and Node.js**, I enjoy building projects that ar
 🔹 HTML5 | 🔹 CSS3 | 🔹 JavaScript (ES6+) | 🔹 React | 🔹 Node.js (Learning)
 
 🛠️ Tools
-Git, GitHub, VS Code 
+ - Git, GitHub, VS Code 
 
 🎨 Design
-Figma, Canva  
+ - Figma, Canva  
 
 ---
 
