@@ -7,8 +7,8 @@ Focused on **JavaScript, React, and Node.js**, I enjoy building projects that ar
 
 ## 🚀About Me  
 
-- Currently learning **React.js** (Frontend) and **Node.js + Express** (Backend)  
-- Exploring **MongoDB** for databases  
+- Currently learning **React.js** (Frontend) and **Node.js + Express** (Backend)
+-  
 - 💻 Built projects like:  
   - 🔹 [Infinite Wikipedia Search](https://codedbykiran.github.io/Infinite-Wikipedia/)  
   - 🔹 [Step Counter App](https://codedbykiran.github.io/live-Step-Counter/)  
@@ -17,19 +17,15 @@ Focused on **JavaScript, React, and Node.js**, I enjoy building projects that ar
 - 🎯 Goal: To become a **Full Stack Developer** and land a strong role in web development  
 
 ---
+ 
+## ⚙️ Tech Stack  
 
-## 🧰 Tech Stack  
+🔹 HTML5 | 🔹 CSS3 | 🔹 JavaScript (ES6+) | 🔹 React | 🔹 Node.js (Learning)
 
-### 🖥️ Frontend
-HTML5, CSS3, JavaScript (ES6+), React.js, Bootstrap  
+🛠️ Tools
+Git, GitHub, VS Code 
 
-### ⚙️ Backend
-Node.js, Express.js, REST APIs, MongoDB (Basics)  
-
-### 🛠️ Tools
-Git, GitHub, VS Code, Postman  
-
-### 🎨 Design
+🎨 Design
 Figma, Canva  
 
 ---
