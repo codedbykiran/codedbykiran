@@ -44,7 +44,7 @@ Focused on **JavaScript, React, and Node.js**, I enjoy building projects that ar
 ## 📫 Connect With Me  
 
 🌐 [GitHub Profile](https://github.com/codedbykiran)  
-💼 [LinkedIn(linkedin.com/in/kirancharhate)  
+💼 [Visit LinkedIn](https://www.linkedin.com/in/kirancharhate/)  
 📧 **kirancharhate781@gmail.com**
 
 ---
