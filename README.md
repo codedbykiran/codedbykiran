@@ -8,7 +8,7 @@ Focused on **JavaScript, React, and Node.js**, I enjoy building projects that ar
 ## 🚀About Me  
 
 - Currently learning **React.js** (Frontend) and **Node.js + Express** (Backend)
--  
+  
 - 💻 Built projects like:  
   - 🔹 [Infinite Wikipedia Search](https://codedbykiran.github.io/Infinite-Wikipedia/)  
   - 🔹 [Step Counter App](https://codedbykiran.github.io/live-Step-Counter/)  
