@@ -35,9 +35,9 @@ Focused on **JavaScript, React, and Node.js**, I enjoy building projects that ar
 
 | Project | Description | Live Demo |
 |----------|--------------|-----------|
-| 🧠 Infinite Wikipedia Search | Search Wikipedia articles instantly | [View Live](https://codedbykiran.github.io/Infinite-Wikipedia/) |
-| 👣 Step Counter App | Count your daily steps with smooth UI | [View Live](https://codedbykiran.github.io/live-Step-Counter/) |
-| ⏳ Loader Countdown | Minimal CSS loader project | [View Code](https://github.com/codedbykiran/Loader-Countdown) |
+| Infinite Wikipedia Search | Search Wikipedia articles instantly | [View Live](https://codedbykiran.github.io/Infinite-Wikipedia/) |
+| Step Counter App | Count your daily steps with smooth UI | [View Live](https://codedbykiran.github.io/live-Step-Counter/) |
+| Loader Countdown | Minimal CSS loader project | [View Code](https://github.com/codedbykiran/Loader-Countdown) |
 
 ---
 
