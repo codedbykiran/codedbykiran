@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Kiran+Charhate;Frontend+Developer;JavaScript+Enthusiast;Learning+React+%26+Node.js;Welcome+to+my+GitHub+Profile+!">
+</p>
+
 # 👋 Hey, I'm Kiran Charhate  
 
 I’m a passionate **Full Stack Developer (in progress)** who loves turning ideas into clean, real-world web experiences.  
