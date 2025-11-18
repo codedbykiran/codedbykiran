@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Kiran+Charhate;Frontend+Developer;JavaScript+Enthusiast;Learning+React+%26+Node.js;Welcome+to+my+GitHub+Profile+!">
-</p>
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2500&pause=900&color=7F3AFB&center=true&vCenter=true&repeat=true&width=700&lines=Hi%2C+I'm+Kiran+Charhate+👋;A+Passionate+Frontend+Developer+💻;I+Love+Bui
+
 
 # 👋 Hey, I'm Kiran Charhate  
 
