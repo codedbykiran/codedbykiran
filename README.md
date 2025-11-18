@@ -1,6 +1,9 @@
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2500&pause=900&color=7F3AFB&center=true&vCenter=true&repeat=true&width=700&lines=Hi%2C+I'm+Kiran+Charhate+👋;A+Passionate+Frontend+Developer+💻;I+Love+Bui
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2500&pause=900&color=7F3AFB&center=true&vCenter=true&repeat=true&width=700&lines=Hi%2C+I'm+Kiran+Charhate+👋;A+Passionate+Frontend+Developer+💻;I+Love+Building+Clean+%26+Modern+UI+✨;JavaScript+Enthusiast+⚡;Currently+Learning+React+%26+Node.js+🚀;Welcome+to+my+GitHub+Profile+❤️"
+  />
+</p>
+
 
 
 # 👋 Hey, I'm Kiran Charhate  
