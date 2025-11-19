@@ -1,12 +1,11 @@
+<h1 align="center">
+  Hi, I'm Kiran Charhate
+</h1>
+
+
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2500&pause=900&color=7F3AFB&center=true&vCenter=true&repeat=true&width=700&lines=Hi%2C+I'm+Kiran+Charhate+👋;A+Passionate+Frontend+Developer+💻;I+Love+Building+Clean+%26+Modern+UI+✨;JavaScript+Enthusiast+⚡;Currently+Learning+React+%26+Node.js+🚀;Welcome+to+my+GitHub+Profile+❤️"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1800&pause=700&color=FFD700&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Kiran+Charhate+%F0%9F%91%8B;Frontend+Developer+%7C+JavaScript+Enthusiast;I+Build+Clean+%26+Modern+UIs;Learning+React+%26+Node.js;Open+to+Collaboration+%26+Freelance+Projects" alt="Typing animation" />
 </p>
-
-
-
-# 👋 Hey, I'm Kiran Charhate  
 
 I’m a passionate **Full Stack Developer (in progress)** who loves turning ideas into clean, real-world web experiences.  
 Focused on **JavaScript, React, and Node.js**, I enjoy building projects that are fast, scalable, and user-friendly.  
