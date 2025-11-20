@@ -3,19 +3,6 @@
   <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1800&pause=700&color=FFD700&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Kiran+Charhate+%F0%9F%91%8B;Frontend+Developer+%7C+JavaScript+Enthusiast;I+Build+Clean+%26+Modern+UIs;Learning+React+%26+Node.js;Open+to+Collaboration+%26+Freelance+Projects" alt="Typing animation" />
 </p>
-  
-  <div>
-<p align="center">
-  <a href="https://linkedin.com/in/kirancharhate">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/yourprofile">
-    <img src="https://skillicons.dev/icons?i=twitter" width="40" />
-  </a>
-</p>
-
-  </div>
 </div>
 
 ---
