@@ -5,15 +5,10 @@
 ---
 
 # 👨‍💻 About Me  
-- 🔭 Learning **Backend Development (Node + MongoDB)**  
+- 🔭 Learning **React.js & Backend Development (Node + MongoDB) Progressing**  
 - 🌐 Check out my projects → **https://codingkiran.github.io/Portfolio/**  
 - ✍ I write blogs → **https://hashnode.com/@codingkiran**  
 - 💬 Ask me about: **HTML • CSS • JavaScript • React**  
-- ⚡ **Fun facts:**  
-  - Introvert  
-  - Vegetarian  
-  - Favourite food: *peanuts & French fries*  
-  - Clash Of Clans player since 5+ years  
 
 ---
 
@@ -51,5 +46,5 @@
 ---
 
 ## 📫 Connect with Me  
-- 📧 Email: **codingkiran92@gmail.com**  
-- 🔗 GitHub: https://github.com/C
+- 📧 Email: **kirancharhate781@gmail.com**  
+- 🔗 GitHub: https://github.com/Codebykiran
