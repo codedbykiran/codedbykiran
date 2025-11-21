@@ -4,7 +4,20 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=23&pause=1000&color=9A4DFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Kiran+Charhate;Frontend+Developer;JavaScript+%7C+React+Enthusiast;I+build+clean+and+interactive+UIs" />
 </p>
 
----
+<p align="center">
+  <a href="https://github.com/codedbykiran">
+    <img src="https://img.shields.io/badge/GitHub-9A4DFF?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:kirancharhate781@gmail.com">
+    <img src="https://img.shields.io/badge/Email-9A4DFF?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/kirancharhate/">
+    <img src="https://img.shields.io/badge/LinkedIn-9A4DFF?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/codedbykiran">
+    <img src="https://img.shields.io/badge/Twitter-9A4DFF?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
 
 ## <h3>🌟 About Me  </h3>
 I'm a passionate **Frontend Developer** who loves creating smooth, fast, and user-friendly web experiences.  
