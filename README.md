@@ -1,8 +1,8 @@
-  <h2 align="center">Welcome to Kiran’s GitHub 💜</h2>
+  <h3 align="center">Welcome to Kiran’s GitHub 💜</h3>
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&pause=1000&color=9A4DFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Kiran+Charhate;Frontend+Developer;JavaScript+%7C+React+Enthusiast;I+build+clean+and+interactive+UIs" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=23&pause=1000&color=9A4DFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Kiran+Charhate;Frontend+Developer;JavaScript+%7C+React+Enthusiast;I+build+clean+and+interactive+UIs" />
 </p>
 
 ---
@@ -30,9 +30,9 @@ Right now, I’m working on sharpening my **React, API integration, and performa
   <b>⭐ If you like my work, consider giving a star to my projects!</b>
 </p>
 
-<h2 align="center">
+<h3 align="center">
 Web Development Portfolio 🌐
-</h2>
+</h3>
 
 <p align="center" style="font-size: 22px">
 
