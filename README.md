@@ -1,6 +1,5 @@
   <h3 align="center">Welcome to Kiran’s GitHub 💜</h3>
-
-
+  
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=23&pause=1000&color=9A4DFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Kiran+Charhate;Frontend+Developer;JavaScript+%7C+React+Enthusiast;I+build+clean+and+interactive+UIs" />
 </p>
@@ -15,7 +14,7 @@ Right now, I’m working on sharpening my **React, API integration, and performa
 ---
 
 ## <h3>🛠️ Tech Stack  </h3>
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/HTML-9A4DFF?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-9A4DFF?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-9A4DFF?style=for-the-badge&logo=javascript&logoColor=white" />
