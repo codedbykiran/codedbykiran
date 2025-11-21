@@ -30,6 +30,41 @@
 
 ---
 
+<p align="center" style="font-size: 22px">
+
+  <a href="https://github.com/codedbykiran/Infinite-Wikipedia-WordExplorer">
+    <img width="310" height="180"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=codedbykiran&repo=Infinite-Wikipedia-WordExplorer&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false">
+  </a>
+
+  <a href="https://github.com/codedbykiran/live-Step-Counter">
+    <img width="310" height="180"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=codedbykiran&repo=live-Step-Counter&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false">
+  </a>
+
+  <a href="https://github.com/codedbykiran/Expenses-Tracker">
+    <img width="310" height="180"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=codedbykiran&repo=Expenses-Tracker&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false">
+  </a>
+
+  <a href="https://github.com/codedbykiran/Loader-Countdown">
+    <img width="310" height="180"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=codedbykiran&repo=Loader-Countdown&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false">
+  </a>
+
+  <a href="https://github.com/codedbykiran/Quotes-Generator-JS">
+    <img width="310" height="180"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=codedbykiran&repo=Quotes-Generator-JS&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false">
+  </a>
+
+  <a href="https://github.com/codedbykiran/Infinite-Wikipedia">
+    <img width="310" height="180"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=codedbykiran&repo=Infinite-Wikipedia&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false">
+  </a>
+
+</p>
+
+
 ## 🚀 Featured Projects  
 ### 🔹 **Infinite Wikipedia WordExplorer**  
 📍 Live: https://codedbykiran.github.io/Infinite-Wikipedia-WordExplorer/  
