@@ -1,34 +1,81 @@
+<!-- Profile Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7A49FF&center=true&vCenter=true&width=650&lines=Hi+there!+👋+I'm+Kiran+Charhate;Frontend+Developer;Tech+Enthusiast+💻;Always+Learning+New+Things+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=9A4DFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Kiran+Charhate;Frontend+Developer;JavaScript+%7C+React+Enthusiast;I+build+clean+and+interactive+UIs" />
 </p>
 
 ---
 
-# 👨‍💻 About Me  
-- 🔭 Learning **React.js & Backend Development (Node + MongoDB) Progressing**  
-- 🌐 Check out my projects → **https://codingkiran.github.io/Portfolio/**  
-- ✍ I write blogs → **https://hashnode.com/@codingkiran**  
-- 💬 Ask me about: **HTML • CSS • JavaScript • React**  
+## 🌟 About Me  
+I'm a passionate **Frontend Developer** who loves creating smooth, fast, and user-friendly web experiences.  
+Focused on writing **clean code**, learning new tech, and building real-world projects.
 
 ---
 
-## 🎯 Tech Stack  
-### **Frontend**
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-### **Backend**
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### **Tools**
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078d4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+## 🛠️ Tech Stack  
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-9A4DFF?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-9A4DFF?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-9A4DFF?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-9A4DFF?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-9A4DFF?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-9A4DFF?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
+
+## 🚀 Featured Projects  
+
+### 🔹 Infinite Wikipedia Word Explorer  
+🔗 https://github.com/codedbykiran/Infinite-Wikipedia-WordExplorer  
+Explore Wikipedia infinitely with intelligent word-chain generation.
+
+### 🔹 Live Step Counter  
+🔗 https://github.com/codedbykiran/live-Step-Counter  
+A real-time step counter using Device Sensor APIs.
+
+### 🔹 Expenses Tracker  
+🔗 https://github.com/codedbykiran/Expenses-Tracker  
+Track daily expenses cleanly and easily.
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codedbykiran&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbykiran&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+---
+
+## 🌐 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/kirancharhate/">
+    <img src="https://img.shields.io/badge/LinkedIn-9A4DFF?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/codedbykiran">
+    <img src="https://img.shields.io/badge/Twitter-9A4DFF?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## ✨ Current Focus  
+- Mastering React + APIs  
+- Writing clean & maintainable code  
+- Building unique mini-projects  
+- Improving UI/UX thinking  
+
+---
+
+## 💡 Fun Fact  
+I love turning small ideas into smooth working web apps — quickly and cleanly!
+
+---
+
+<p align="center">
+  <b>⭐ If you like my work, consider giving a star to my projects!</b>
+</p>
+
 <h2 align="center">
 Web Development Portfolio 🌐
 </h2>
@@ -68,21 +115,4 @@ Web Development Portfolio 🌐
 </p>
 
 
-## 🚀 Featured Projects  
-### 🔹 **Infinite Wikipedia WordExplorer**  
-📍 Live: https://codedbykiran.github.io/Infinite-Wikipedia-WordExplorer/  
-🔗 Explore words dynamically using Wikipedia API.
 
----
-
-## 📊 GitHub Stats  
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=CodingKiran&show_icons=true&theme=radical" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodingKiran&layout=compact&theme=radical" height="160" />
-</p>
-
----
-
-## 📫 Connect with Me  
-- 📧 Email: **kirancharhate781@gmail.com**  
-- 🔗 GitHub: https://github.com/Codebykiran
