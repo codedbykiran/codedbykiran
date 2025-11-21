@@ -7,15 +7,15 @@
 
 ---
 
-## 🌟 About Me  
+## <h3>🌟 About Me  </h3>
 I'm a passionate **Frontend Developer** who loves creating smooth, fast, and user-friendly web experiences.  
 Focused on writing **clean code**, learning new tech, and building real-world projects.I enjoy experimenting with new concepts, building mini-projects, and understanding how things work under the hood.  
 Right now, I’m working on sharpening my **React, API integration, and performance optimization** skills.
 
 ---
 
-## 🛠️ Tech Stack  
-<p align="center">
+## <h3>🛠️ Tech Stack  </h3>
+<p align="left">
   <img src="https://img.shields.io/badge/HTML-9A4DFF?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-9A4DFF?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-9A4DFF?style=for-the-badge&logo=javascript&logoColor=white" />
