@@ -5,7 +5,7 @@
 </p>
 
 ## <h3>🌟 About Me  </h3>
-I'm a passionate **Frontend Developer** who loves creating smooth, fast, and user-friendly web experiences.  
+I'm a **Frontend Developer** who loves creating smooth, fast, and user-friendly web experiences.  
 Focused on writing **clean code**, learning new tech, and building real-world projects.I enjoy experimenting with new concepts, building mini-projects, and understanding how things work under the hood.  
 Right now, I’m working on sharpening my **React, API integration, and performance optimization** skills.
 
